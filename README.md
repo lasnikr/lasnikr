@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1> Hey, I am Lasnik </h1>
 
-<!--
-**lasnikprogram/lasnikprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻Who I am
+  - A young and self taught developer from Germany, Berlin
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on
+  - [Bleachhack](https://github.com/BleachDrinker420/BleachHack)
+  - A Unity game
+  - A Java game engine
+  - A game in Java Swing
+  
+- 🛠 I’m familiar with
+  - Java
+  - JavaScript
+  - C#
+  - C++
+  - HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+  - Discord:  ```Lasnik#0294```
+  - E-Mail:   [```ruecker.niklas1@gmail.com```](mailto:ruecker.niklas1@gmail.com)
+  
+  [![Lasnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasnikprogram)](https://github.com/anuraghazra/github-readme-stats)
+  
