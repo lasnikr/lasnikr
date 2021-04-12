@@ -18,7 +18,7 @@
 
 - 📫 How to reach me:
   - Discord:  ```Lasnik#0294```
-  - E-Mail:   [```ruecker.niklas1@gmail.com```](mailto:ruecker.niklas1@gmail.com)
+  - E-Mail:   [```lasnikprogram@gmail.com```](mailto:lasnikprogram@gmail.com)
   
   [![Lasnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasnikprogram)](https://github.com/anuraghazra/github-readme-stats)
   
