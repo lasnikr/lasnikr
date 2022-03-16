@@ -4,10 +4,7 @@
   - A young and self taught developer from Germany, Berlin
 
 - 🔭 I’m currently working on
-  - [GhostTriggerbotter](https://github.com/lasnikprogram/GhostTriggerbotter)
-  - [Bleachhack](https://github.com/BleachDrinker420/BleachHack)
-  - [My website](lasnik.github.io)
-  - A Unity game (private)
+  - nothing
   
 - 🛠 I’m familiar with
   - Java
