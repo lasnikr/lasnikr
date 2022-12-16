@@ -1,10 +1,9 @@
 <h1> Hey, I am Lasnik </h1>
 
-- 👨🏻‍💻Who I am
-  - A young and self taught developer from Germany, Berlin
+- 👨🏻‍💻 A young and self taught developer from Germany, Berlin
 
 - 🔭 I’m currently working on
-  - nothing
+  - an offline, single word translation tool
   
 - 🛠 I’m familiar with
   - Java
