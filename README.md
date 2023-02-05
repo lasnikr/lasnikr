@@ -7,6 +7,7 @@
   
 - 🛠 I’m familiar with
   - Java
+  - Python
   - JavaScript
   - C#
   - C++
