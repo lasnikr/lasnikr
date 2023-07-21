@@ -26,5 +26,5 @@
   - Discord:  ```lasnikr```
   - E-Mail:   [```lasnikprogram@gmail.com```](mailto:lasnikprogram@gmail.com) (more active)
   
-  [![Lasnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasnikprogram)](https://github.com/anuraghazra/github-readme-stats)
+  [![Lasnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasnikr)](https://github.com/anuraghazra/github-readme-stats)
   
