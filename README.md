@@ -1,6 +1,7 @@
 <h1> Hey, I am Lasnikr </h1>
 
 - 👨🏻‍💻 A developer from Germany, Berlin
+- 📚 Currently doing my B. sc. in IT Systems Engineering at [Hasso Plattner Institut](https://hpi.de/en/index.html)
 - 🛠 I’m familiar with
   - Java
   - Haskell
@@ -11,11 +12,6 @@
   - JavaScript
   - C++
   - C
-
- 
-- 🖥️ My desktop
-  - Ubuntu 22.04
-  - i3wm with bumblebee status, picom and rofi
 
 - 📫 How to reach me:
   - Discord:  ```lasnikr```
